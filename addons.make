@@ -1,0 +1,3 @@
+ofxIpVideoGrabber
+ofxOpenCv
+ofxOsc
